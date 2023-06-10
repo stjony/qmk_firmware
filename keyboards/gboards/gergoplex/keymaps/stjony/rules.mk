@@ -5,5 +5,3 @@ COMBO_ENABLE = no # Enable combos
 DEBOUNCE_TYPE = sym_defer_pk
 BOOTMAGIC_ENABLE = no
 COMMAND_ENABLE = no
-
-SRC += stjony.c # keymap
